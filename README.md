@@ -1,5 +1,5 @@
 # Manjaro ARM RockPi 4C
-[![iso_build](https://github.com/manjaro-arm/rockpi4c-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/rockpi4c-images/actions)
+[![iso_build](https://github.com/manjaro-arm/rockpi4c-images/workflows/image_build_all/badge.svg)](https://github.com/manjaro-arm/rockpi4c-images/actions)
 
 ## description
 
